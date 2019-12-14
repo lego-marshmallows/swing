@@ -1,1 +1,10 @@
-
+motors.mediumA.setBrake(true)
+motors.mediumA.run(20, 36, MoveUnit.Degrees)
+motors.largeBC.run(44, 2650, MoveUnit.Degrees)
+motors.largeBC.steer(52, 50, 700, MoveUnit.Degrees)
+motors.stopAll()
+motors.mediumA.run(10, 0.1, MoveUnit.Seconds)
+motors.largeBC.run(-30, 360, MoveUnit.Degrees)
+motors.largeBC.steer(200, 30, 210, MoveUnit.Degrees)
+motors.largeBC.steer(-2, 50, 3200, MoveUnit.Degrees)
+brick.exitProgram()
