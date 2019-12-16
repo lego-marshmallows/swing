@@ -1,15 +1,6 @@
 # swing ![Build status badge](https://github.com/lego-marshmallows/swing/workflows/MakeCode/badge.svg)
 
-
-
-## Use this extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open https://makecode.mindstorms.com/
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for the URL of this repository and import
+This program was used with a driving base to solve the solve the lift mission in the First LEGO League City Shaper challenge. The robot should start aligned with the road pointing to the swing.
 
 ## Edit this extension
 
